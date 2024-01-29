@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1892BDB52B6720C10064B833 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1892BDB42B6720C10064B833 /* main.cpp */; };
+		1892BDB52B6720C10064B833 /* tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1892BDB42B6720C10064B833 /* tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		1892BDB12B6720C10064B833 /* CSE 503 Week 3 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "CSE 503 Week 3"; sourceTree = BUILT_PRODUCTS_DIR; };
-		1892BDB42B6720C10064B833 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		1892BDB42B6720C10064B833 /* tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = tree.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		1892BDB32B6720C10064B833 /* CSE 503 Week 3 */ = {
 			isa = PBXGroup;
 			children = (
-				1892BDB42B6720C10064B833 /* main.cpp */,
+				1892BDB42B6720C10064B833 /* tree.cpp */,
 			);
 			path = "CSE 503 Week 3";
 			sourceTree = "<group>";
@@ -119,7 +119,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1892BDB52B6720C10064B833 /* main.cpp in Sources */,
+				1892BDB52B6720C10064B833 /* tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
